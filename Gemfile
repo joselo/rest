@@ -9,6 +9,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'haml-rails', '~> 0.5.3'
 gem 'active_model_serializers', '~> 0.8.1'
+gem 'rack-cors', '~> 0.2.9'
 
 gem 'jquery-rails'
 gem 'turbolinks'
